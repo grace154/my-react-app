@@ -11,7 +11,6 @@ View the Dynamic List Manager:
 ![dynamic list management][(https://github.com/grace154/my-react-app/blob/main/dynamic%20list%20management.PNG?raw=true))]
 
 ## How to Use
-## How to Use
 - Or visit the link above to view online.
 ## Features
 - Adds new items dynamically
