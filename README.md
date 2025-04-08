@@ -9,7 +9,7 @@ View the Dynamic List Manager:
 
 ## Preview
 ![Preview]
-(https://github.com/grace154/my-react-app/blob/main/dynamic%20list%20management.PNG?raw=true)) 
+(https://github.com/grace154/my-react-app/blob/main/dynamic%20list%20management.PNG?raw=true))) 
 ## How to Use
 - Or visit the link above to view online.
 ## Features
