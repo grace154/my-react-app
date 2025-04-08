@@ -3,6 +3,10 @@
 The **Dynamic List Manager** is a simple React app built with Vite that allows users to add, view and items from a list.
 It's a project for practicing **state management**, **component reusability**, and **dynamic rendering** in React.
 
+## Live Preview
+View the Dynamic List Manager:
+[/] 
+
 ## Preview
 ![Preview](https://github.com/grace154/my-react-app/blob/main/dynamic%20list%20management.PNG?raw=true)) 
 
