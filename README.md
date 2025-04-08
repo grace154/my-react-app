@@ -23,16 +23,14 @@ View the Dynamic List Manager:
 - JavaScript
   
 ## Installation & Running Locally
- Open a terminal/command prompt and clone the repository to your local machine:
+Open a terminal/command prompt and clone the repository to your local machine:
 1. Clone the repository:
 git clone https://github.com/grace154/my-react-app.git
+
 cd my-react-app
 
-Install dependencies:
-npm install
-
-Start the development server:
-npm run dev
+Install dependencies:npm install
+Start the development server:npm run dev
 
 ## Deployment
 npm run build
