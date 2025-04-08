@@ -12,8 +12,6 @@ View the Dynamic List Manager:
 (https://github.com/grace154/my-react-app/blob/main/dynamic%20list%20management.PNG?raw=true)) 
 ## How to Use
 - Or visit the link above to view online.
-
-
 ## Features
 - Add new items dynamically
 - Real-time updates without page reload
@@ -27,7 +25,6 @@ View the Dynamic List Manager:
 ## Installation & Running Locally
  Open a terminal/command prompt and clone the repository to your local machine:
 1. Clone the repository:
-'''bash
 git clone https://github.com/grace154/my-react-app.git
 cd my-react-app
 
@@ -36,12 +33,12 @@ npm install
 
 Start the development server:
 npm run dev
-This will start a local server, and you can access the project at:
-http://localhost:3000
+
 ## Deployment
 npm run build
 npm run deploy
 After deployment, your app will be live at:
+[https://grace154.github.io/my-react-app/] 
 
 ## Author
 Grace Nyambura Ngugi  
