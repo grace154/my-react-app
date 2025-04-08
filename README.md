@@ -30,11 +30,13 @@ git clone https://github.com/grace154/my-react-app.git
 cd my-react-app
 
 Install dependencies:npm install
+
 Start the development server:npm run dev
 
 ## Deployment
 npm run build,
 npm run deploy.
+
 After deployment, your app will be live at:
 [https://grace154.github.io/my-react-app/] 
 
