@@ -5,7 +5,7 @@ It's a project for practicing **state management**, **component reusability**, a
 
 ## Live Preview
 View the Dynamic List Manager:
-[/] 
+[https://grace154.github.io/my-react-app/] 
 
 ## Preview
 ![Preview](https://github.com/grace154/my-react-app/blob/main/dynamic%20list%20management.PNG?raw=true)) 
