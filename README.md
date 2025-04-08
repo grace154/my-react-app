@@ -10,7 +10,7 @@ View the Dynamic List Manager:
 ## Preview
 ![Preview]
 ![ Preview of Dynamic List Manager]dynamic list management.PNG)
-[https://grace154.github.io/TIMETABLE-24-25/#screenshot]
+[https://github.com/grace154/my-react-app/blob/main/dynamic%20list%20management.PNG?raw=true]
 ## How to Use
 ## How to Use
 - Or visit the link above to view online.
